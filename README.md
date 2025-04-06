@@ -41,4 +41,8 @@ This project implements a simple Retrieval-Augmented Generation (RAG) model desi
 
 *   **Groq:** For fast LLM inference.
 *   **Brave Search API:** For real-time web search results.
-*   **Python:** The primary programming language. 
+*   **Python:** The primary programming language.
+
+## Tags
+
+`RAG`, `LLM`, `Groq`, `Brave Search API`, `Low Latency`, `Internet Search`, `Python`, `AI`, `NLP` 
